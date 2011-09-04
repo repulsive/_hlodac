@@ -1,3 +1,5 @@
+            // ...
+
             if (gd.index_of_www_address_of_front==-1)
               {
                 gd.www_addresses_of_ip_address_are_exhausted[gd.index_of_www_address_of_front]=true;
@@ -53,3 +55,5 @@
       gd.maximum_of_numbers_of_www_addresses_of_ip_address_of_front_2;
   }
 end_of_one_subcycle_of_placing_www_addresses_of_nonmaximum_ip_addresses:
+
+// ...
